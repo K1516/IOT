@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IOT</string>
+    <string name="app_name2">ROBOT CONTROL APPLICATION</string>
+    <string name="buttonW_txt">Connect</string>
+    <string name="buttonB_txt">Bluetooth</string>
+    <string name="connect_txt">Choose connection</string>
+    <string name="connection_txt">Add device id</string>
+    <string name="button2_txt">Find Device</string>
+    <string name="find1_txt">You have found device to match</string>
+    <string name="find2_txt">No devices found</string>
+    <string name="button4_txt">Start</string>
+    <string name="left_txt">Left</string>
+    <string name="right_txt">Right</string>
+    <string name="up_txt">Up</string>
+    <string name="down_txt">Down</string>
+</resources>
