@@ -13,4 +13,5 @@
     <string name="right_txt">Right</string>
     <string name="up_txt">Up</string>
     <string name="down_txt">Down</string>
+    <string name="stop_txt">Stop</string>
 </resources>
